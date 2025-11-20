@@ -50,6 +50,11 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:github",
 			url: "https://github.com/pingpwn",
 		},
+		{
+			name: "Linkedin",
+			icon: "fa6-brands:linkedin",
+			url: "https://www.linkedin.com/in/vassilis-a-039178359/",
+		},
 	],
 };
 
