@@ -2,7 +2,7 @@
 title: Flare-On 12 Challenge 1 
 published: 2025-11-20
 description: 'Writeup for the first Flare-On 12 challenge'
-image: ''
+image: "./cover.jpeg"
 tags: ["Reverse Engineering", "Flare-On"]
 category: 'Writeups'
 draft: false 
