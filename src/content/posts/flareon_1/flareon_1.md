@@ -1,7 +1,7 @@
 ---
 title: Flare-On 12
 published: 2025-11-20
-description: 'Writeups for the Flare-On 12 challenge'
+description: 'Flare-on 12: Round 1'
 image: "./cover.jpeg"
 tags: ["Reverse Engineering", "Flare-On"]
 category: 'Writeups'
@@ -10,7 +10,7 @@ lang: 'en'
 ---
 
 
-# Flare-On 12
+# Flare-On 12 Challenge 1
 
 
 This is my writeup for the flareon 12 ctf.
