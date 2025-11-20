@@ -67,7 +67,7 @@ export const profileConfig: ProfileConfig = {
 			url: "https://www.linkedin.com/in/vassilis-a-039178359/",
 		},
 		{
-			name: "CTFTime",
+			name: "CTFtime",
 			icon: "fa6-solid:flag",
 			url: "https://ctftime.org/user/194776",
 		},
