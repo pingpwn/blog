@@ -110,9 +110,10 @@ for i in range(0, tiles_width):
 ```
 and I just played the game!
 
-![[Pasted image 20251128122333.png]]
+![screen3.png](screen3.png)
 
-![[Pasted image 20251128122347.png]]
+![screen2.png](screen2.png)
+
 
 
 
@@ -589,7 +590,7 @@ print(f"Flag: {decrypted_formula}")
 
 Aaaaand we get our flag!
 
-![[Pasted image 20251128131241.png]]
+![screen4.png](screen4.png)
 
 # Round 3: Pretty Devilish File
 
