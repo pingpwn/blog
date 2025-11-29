@@ -17,7 +17,7 @@ lang: 'en'
 
 Just like last year, we have a pygame .exe and its python source. Let's play a bit!
 
-![[Pasted image 20251128115647.png]]
+![screen1.png](screen1.png)
 We control this baby's horizontal index and drill out holes. Looks like our goal is to reach the teddy bear, and avoid drilling into a boulder. 
 Let's take a look at the source code. 
 We see there are 5 levels:
